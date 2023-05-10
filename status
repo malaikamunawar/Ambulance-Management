@@ -1,0 +1,30 @@
+                                                          CS-261 -DATA STRUCTURE AND ALGORITHM
+
+                                                                    Final Term Project
+
+Tasks that are successfully completed:
+
+Task 1:
+(Crud) add is performed using data structure of Linked List. Add for for both ambulance data and patient data is done.
+Task 2:
+(Crud) delete is performed for both ambulance and patient data.
+Task 3:
+(Crud) edit is performed for both ambulance and patient data.
+Task 4:
+Dispatch Ambulance uses the data structure queue.
+Task 5:
+Viewing Graph function will show graph .
+
+Tasks that are not completed:
+
+Task 1:
+Sorting implementation is not done.
+Task 2:
+Searching Implementation is not done.
+ 
+Tasks in which more improvement is possible:
+
+Task 1:
+Graph using specific graph software can be used to make it efficient.
+Task 2:
+Data management in whole project can be improved.
